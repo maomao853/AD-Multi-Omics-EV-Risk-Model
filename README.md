@@ -6,7 +6,7 @@ This repository provides the source code and raw datasets associated with the pa
 Alzheimer's Disease (AD) is increasing in prevalence as the old age population increases in many countries. Ongoing research has difficulty in identifying root causes due to the heterogeneity of AD and complexities of interconnected pathways at various biological levels. Risk scores have greatly contributed to disease prognosis and biomarker discovery, but generally only consider generic risk factors.
 
 We proposed an approach to constructing risk scores that takes advantage of extracellular vesicle (EV) and multi-omics data. Risk scores will be constructed for three types of omics data at different biological levels. EV-related genes localized in brain tissue will serve as a filter to find significant risk factors. The overall project workflow is depicted below.
-![Overall project workflow]()
+![Architecture](https://github.com/user-attachments/assets/34cbaeaf-7046-4530-a244-ecbf04ad4221)
 
 ## Data
 
