@@ -96,7 +96,7 @@ process_idat <- function(iteration, start, stop) {
   print(paste("unique: ", length(unique(rownames(beta_df)))))
   
   print("Writing CSV file...")
-  output_file <- file.path(wd, "output", paste0("beta_", iteration, ".csv"))
+  output_file <- file.path(wd, "data", paste0("beta_", iteration, ".csv"))
   write.csv(beta_df, output_file, row.names=TRUE)
 }
 

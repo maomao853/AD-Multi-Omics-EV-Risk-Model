@@ -23,14 +23,52 @@ Evaluation was performed of external data from Gene Expression Omnibus (GEO). On
 
 Raw data from the above sources must undergo manual modifications prior to usage in the provided source code. Begin by placing all data files in the `./data` directory. Rename files to remove date prefix/suffix (*e.g.,* `ROSTER_22Jul2024.csv` → `ROSTER.csv`).
 
-ADNI data can be directly downloaded from the [Image and Data Archive (IDA)]().
-* /Download/Genetic Data/ADNI Gene Expression
-* /Download/Genetic Data/DNA methylation profiling
-* /Download/Study Data/Subject Characteristics/Subject Demographics
-* /Download/Study Data/ ... DIAGNOSIS
+__ADNI__ data can be directly downloaded from the [Image and Data Archive (IDA)](https://ida.loni.usc.edu/) using the Analysis Ready Cohort (ARC) Builder.
 
-UK Biobank data can be accessed using the [Research Analysis Platform (RAP)]().
+Downloads:
+* /Study Files/Enrollment/Roster.csv
+* /Genetic Files/ADNI Gene Expression/Microarray Gene Expression Profile Data.csv
+* /Genetic Files/DNA methylation profiling/Whole-genome DNA methylation profiling Data.idat
+
+Search:
+* /Subjects/Demographics/PTDEMOG
+* /Assessments/Diagnosis/DXSUM
+
+You must run `preprocess_methylation.R` to pre-process the DNA methylation data for use in the risk score. This R script will convert the raw values to beta values, convert loci annotations to gene symbols, aggregate gene symbols, and output multiple files into the `/data` folder.
+
+__UK Biobank__ data can be accessed using the [Research Analysis Platform (RAP)](https://ukbiobank.dnanexus.com/) using the Dataset file.
+
+Proteomics data
+* Tab: `Data Preview`
+* Display Entity: `Olink Instance 0`
+* Filter: `Date G31 first reported = IS NOT NULL`
+* Columns:
+    * Genes from `/data/NDEV.csv`
+
+Demographics data
+* Tab: `Data Preview`
+* Display Entity: `Participant`
+* Filter: `N/A`
+* Columns:
+    * Sex
+    * Year of birth
+    * Age at recruitment
+
+Survival data
+* Tab: `Data Preview`
+* Display Entity: `Participant`
+* Filter: `N/A`
+* Columns:
+    * Date G30 first reported (alzheimer's disease)
+    * Date G31 first reported (other degenerative diseases of nervous system, not elsewhere classified)
+    * Date G32 first reported (other degenerative disorders of nervous system in diseases classified elsewhere)
+
+If you have trouble downloading the data, try to separate each download to contain less than 30 columns.
+
+__GEO__ data is retrieved using GEOquery in an R script. Running the script `GSE5281.R` will automatically retrieve the matrix file, convert the annotations to gene symbols, and output the file into the `/data` folder.
 
 ## Risk Model
+
+
 
 ## Evaluation
