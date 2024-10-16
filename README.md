@@ -69,6 +69,39 @@ __GEO__ data is retrieved using GEOquery in an R script. Running the script `GSE
 
 ## Risk Model
 
+A risk model is constructed at each of the three levels of biology: DNA methylation, transcriptomics, and proteomics.
 
+Begin by installing required Python packages. [Conda](https://docs.anaconda.com/miniconda/) is recommended as a package management tool. The following instructions will apply to Conda.
+
+1. Install [Miniconda](https://docs.anaconda.com/miniconda/miniconda-install/)
+2. Create a new environment
+    * You must be in the directory `/AD-Multi-Omics-EV-Risk-Model` that contains `requirements.txt`
+    * If any packages fail to install, you can try to install the package manually using `pip install <package>`
+```
+$ conda create -n riskmodel --file requirements.txt python=3.11.4
+```
+3. Activate the Conda environment
+```
+$ conda activate riskmodel
+```
+4. Start the Jupyter Notebook server
+```
+$ jupyter notebook
+```
+
+The __baseline risk models__ using EV-related multi-omics data is constructed from 3 different Jupyter Notebooks.
+
+* DNA Methylation: `risk_score_methylation.ipynb`
+* Transcriptomics: `risk_score_transcriptomics.ipynb`
+* Proteomics: `risk_score_proteomics.ipynb`
+
+An additional __comparison risk model__ for transcriptomics data is built on all genes, rather than EV-related genes, in transcriptomics data.
+
+* Transcriptomics (all genes): `risk_score_transcriptomics_comparison.ipynb`
 
 ## Evaluation
+
+Evaluation is performed on the transcriptomics risk model using an external dataset [GSE5281](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5281). Both baseline (EV-related genes) and comparison (all genes) risk models are evaluated.
+
+* Transcriptomics (baseline): `eval_transcriptomics.ipynb`
+* Transcriptomics (comparison): `eval_transcriptomics_comparison.ipynb`
