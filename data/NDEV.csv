@@ -1,0 +1,461 @@
+Gene Symbol,Content Type,Gene Source,Sample Material,Gene Name,Species
+SLC1A3,Protein,ExoCarta,Cortical neurones,"solute carrier family 1 (glial high affinity glutamate transporter), member 3",Rattus norvegicus
+PKM,Protein,ExoCarta,Cortical neurones,"pyruvate kinase, muscle",Rattus norvegicus
+ACTG1,Protein,ExoCarta,Cortical neurones,"actin, gamma 1",Rattus norvegicus
+GSN,Protein,ExoCarta,Cortical neurones,gelsolin,Rattus norvegicus
+TUBA1A,Protein,ExoCarta,Cortical neurones,"tubulin, alpha 1A",Rattus norvegicus
+GRIA2,Protein,ExoCarta,Cortical neurones,"glutamate receptor, ionotropic, AMPA 2",Rattus norvegicus
+CLTC,Protein,ExoCarta,Cortical neurones,"clathrin, heavy chain (Hc)",Rattus norvegicus
+ANXA6,Protein,ExoCarta,Cortical neurones,annexin A6,Rattus norvegicus
+UBB,Protein,ExoCarta,Cortical neurones,ubiquitin B,Rattus norvegicus
+HSPA8,Protein,ExoCarta,Cortical neurones,heat shock 70kDa protein 8,Rattus norvegicus
+PDCD6IP,Protein,ExoCarta,Cortical neurones,programmed cell death 6 interacting protein,Rattus norvegicus
+YWHAZ,Protein,ExoCarta,Cortical neurones,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta",Rattus norvegicus
+GNAT3,Protein,ExoCarta,Cortical neurones,"guanine nucleotide binding protein, alpha transducing 3",Rattus norvegicus
+FLOT1,Protein,ExoCarta,Cortical neurones,flotillin 1,Rattus norvegicus
+A2M,Protein,ExoCarta,Cortical neurones,alpha-2-macroglobulin,Rattus norvegicus
+TUBB5,Protein,ExoCarta,Cortical neurones,"tubulin, beta 5 class I",Rattus norvegicus
+GRIA3,Protein,ExoCarta,Cortical neurones,"glutamate receptor, ionotropic, AMPA 3",Rattus norvegicus
+GRIN1,Protein,ExoCarta,Cortical neurones,"glutamate receptor, ionotropic, N-methyl D-aspartate 1",Rattus norvegicus
+GAPDH,Protein,ExoCarta,Cortical neurones,glyceraldehyde-3-phosphate dehydrogenase,Rattus norvegicus
+TSG101,Protein,ExoCarta,Cortical neurones,tumor susceptibility 101,Rattus norvegicus
+CES1C,Protein,ExoCarta,Cortical neurones,carboxylesterase 1C,Rattus norvegicus
+CP,Protein,ExoCarta,Cortical neurones,ceruloplasmin (ferroxidase),Rattus norvegicus
+PPIA,Protein,ExoCarta,Cortical neurones,peptidylprolyl isomerase A (cyclophilin A),Rattus norvegicus
+SLC3A2,Protein,ExoCarta,Cortical neurones,"solute carrier family 3 (amino acid transporter heavy chain), member 2",Rattus norvegicus
+SLC16A1,Protein,ExoCarta,Microglia,"solute carrier family 16 (monocarboxylic acid transporters), member 1",Mus musculus
+EZR,Protein,ExoCarta,Microglia,ezrin,Mus musculus
+ITGB2,Protein,ExoCarta,Microglia,integrin beta 2,Mus musculus
+VTI1B,Protein,ExoCarta,Microglia,vesicle transport through interaction with t-SNAREs 1B,Mus musculus
+CD14,Protein,ExoCarta,Microglia,CD14 antigen,Mus musculus
+LCP1,Protein,ExoCarta,Microglia,lymphocyte cytosolic protein 1,Mus musculus
+LPL,Protein,ExoCarta,Microglia,lipoprotein lipase,Mus musculus
+CD63,Protein,ExoCarta,Microglia,CD63 antigen,Mus musculus
+CLIC4,Protein,ExoCarta,Microglia,chloride intracellular channel 4 (mitochondrial),Mus musculus
+YWHAB,Protein,ExoCarta,Microglia,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide",Mus musculus
+CD74,Protein,ExoCarta,Microglia,"CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)",Mus musculus
+CAPG,Protein,ExoCarta,Microglia,"capping protein (actin filament), gelsolin-like",Mus musculus
+VTI1A,Protein,ExoCarta,Microglia,vesicle transport through interaction with t-SNAREs 1A,Mus musculus
+GNAI2,Protein,ExoCarta,Microglia,"guanine nucleotide binding protein (G protein), alpha inhibiting 2",Mus musculus
+ANPEP,Protein,ExoCarta,Microglia,alanyl (membrane) aminopeptidase,Mus musculus
+CFL1,Protein,ExoCarta,Microglia,"cofilin 1, non-muscle",Mus musculus
+ATP1A3,Protein,ExoCarta,Microglia,"ATPase, Na+/K+ transporting, alpha 3 polypeptide",Mus musculus
+FCER1G,Protein,ExoCarta,Microglia,"Fc receptor, IgE, high affinity I, gamma polypeptide",Mus musculus
+CAP1,Protein,ExoCarta,Microglia,"CAP, adenylate cyclase-associated protein 1 (yeast)",Mus musculus
+PKM,Protein,ExoCarta,Microglia,"pyruvate kinase, muscle",Mus musculus
+YWHAZ,Protein,ExoCarta,Microglia,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide",Mus musculus
+RHOG,Protein,ExoCarta,Microglia,"ras homolog gene family, member G",Mus musculus
+S100A10,Protein,ExoCarta,Microglia,S100 calcium binding protein A10 (calpactin),Mus musculus
+CD9,Protein,ExoCarta,Microglia,CD9 antigen,Mus musculus
+PDCD6IP,Protein,ExoCarta,Microglia,programmed cell death 6 interacting protein,Mus musculus
+CTSS,Protein,ExoCarta,Microglia,cathepsin S,Mus musculus
+RAB11B,Protein,ExoCarta,Microglia,"RAB11B, member RAS oncogene family",Mus musculus
+ITGAM,Protein,ExoCarta,Microglia,integrin alpha M,Mus musculus
+LAMP2,Protein,ExoCarta,Microglia,lysosomal-associated membrane protein 2,Mus musculus
+EIF3F,Protein,ExoCarta,Microglia,"eukaryotic translation initiation factor 3, subunit F",Mus musculus
+IQGAP1,Protein,ExoCarta,Microglia,IQ motif containing GTPase activating protein 1,Mus musculus
+CSTB,Protein,ExoCarta,Microglia,cystatin B,Mus musculus
+BASP1,Protein,ExoCarta,Microglia,"brain abundant, membrane attached signal protein 1",Mus musculus
+SDCBP,Protein,ExoCarta,Microglia,syndecan binding protein,Mus musculus
+LAMP1,Protein,ExoCarta,Microglia,lysosomal-associated membrane protein 1,Mus musculus
+EIF4A2,Protein,ExoCarta,Microglia,eukaryotic translation initiation factor 4A2,Mus musculus
+MFGE8,Protein,ExoCarta,Microglia,milk fat globule-EGF factor 8 protein,Mus musculus
+MYH9,Protein,ExoCarta,Microglia,"myosin, heavy polypeptide 9, non-muscle",Mus musculus
+MYL6,Protein,ExoCarta,Microglia,"myosin, light polypeptide 6, alkali, smooth muscle and non-muscle",Mus musculus
+HSPA8,Protein,ExoCarta,Microglia,heat shock protein 8,Mus musculus
+ALDOA,Protein,ExoCarta,Microglia,"aldolase A, fructose-bisphosphate",Mus musculus
+ENO1,Protein,ExoCarta,Microglia,"enolase 1, alpha non-neuron",Mus musculus
+GAPDH,Protein,ExoCarta,Microglia,glyceraldehyde-3-phosphate dehydrogenase,Mus musculus
+HIST1H2BP,Protein,ExoCarta,Microglia,"histone cluster 1, H2bp",Mus musculus
+CD81,Protein,ExoCarta,Microglia,CD81 antigen,Mus musculus
+ANXA2,Protein,ExoCarta,Microglia,annexin A2,Mus musculus
+PGAM1,Protein,ExoCarta,Microglia,phosphoglycerate mutase 1,Mus musculus
+PGK1,Protein,ExoCarta,Microglia,phosphoglycerate kinase 1,Mus musculus
+YWHAE,Protein,ExoCarta,Microglia,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide",Mus musculus
+RAB8B,Protein,ExoCarta,Microglia,"RAB8B, member RAS oncogene family",Mus musculus
+STX8,Protein,ExoCarta,Microglia,syntaxin 8,Mus musculus
+RAB11A,Protein,ExoCarta,Microglia,"RAB11A, member RAS oncogene family",Mus musculus
+RAB7,Protein,ExoCarta,Microglia,"RAB7, member RAS oncogene family",Mus musculus
+LGALS3,Protein,ExoCarta,Microglia,"lectin, galactose binding, soluble 3",Mus musculus
+MSN,Protein,ExoCarta,Microglia,moesin,Mus musculus
+HSP90AA1,Protein,ExoCarta,Microglia,"heat shock protein 90, alpha (cytosolic), class A member 1",Mus musculus
+VCP,Protein,ExoCarta,Mov neuroglial cells,valosin containing protein,Mus musculus
+ENTPD2,Protein,ExoCarta,Mov neuroglial cells,ectonucleoside triphosphate diphosphohydrolase 2,Mus musculus
+TUBA1A,Protein,ExoCarta,Mov neuroglial cells,"tubulin, alpha 1A",Mus musculus
+PDCD6,Protein,ExoCarta,Mov neuroglial cells,programmed cell death 6,Mus musculus
+SLC25A5,Protein,ExoCarta,Mov neuroglial cells,"solute carrier family 25 (mitochondrial carrier, adenine nucleotide translocator), member 5",Mus musculus
+THBS1,Protein,ExoCarta,Mov neuroglial cells,thrombospondin 1,Mus musculus
+TSG101,Protein,ExoCarta,Mov neuroglial cells,tumor susceptibility gene 101,Mus musculus
+GNB1,Protein,ExoCarta,Mov neuroglial cells,"guanine nucleotide binding protein (G protein), beta 1",Mus musculus
+RAB5A,Protein,ExoCarta,Mov neuroglial cells,"RAB5A, member RAS oncogene family",Mus musculus
+TUBB3,Protein,ExoCarta,Mov neuroglial cells,"tubulin, beta 3 class III",Mus musculus
+MYL6B,Protein,ExoCarta,Mov neuroglial cells,"myosin, light polypeptide 6B",Mus musculus
+PRDX2,Protein,ExoCarta,Mov neuroglial cells,peroxiredoxin 2,Mus musculus
+PSAT1,Protein,ExoCarta,Mov neuroglial cells,phosphoserine aminotransferase 1,Mus musculus
+HSPA8,Protein,ExoCarta,Mov neuroglial cells,heat shock protein 8,Mus musculus
+ENO1,Protein,ExoCarta,Mov neuroglial cells,"enolase 1, alpha non-neuron",Mus musculus
+TUBA1C,Protein,ExoCarta,Mov neuroglial cells,"tubulin, alpha 1C",Mus musculus
+ACTN4,Protein,ExoCarta,Mov neuroglial cells,actinin alpha 4,Mus musculus
+PFN1,Protein,ExoCarta,Mov neuroglial cells,profilin 1,Mus musculus
+ARF3,Protein,ExoCarta,Mov neuroglial cells,ADP-ribosylation factor 3,Mus musculus
+ITGA3,Protein,ExoCarta,Mov neuroglial cells,integrin alpha 3,Mus musculus
+ENO1B,Protein,ExoCarta,Mov neuroglial cells,"enolase 1B, retrotransposed",Mus musculus
+C3,Protein,ExoCarta,Mov neuroglial cells,complement component 3,Mus musculus
+ACTB,Protein,ExoCarta,Mov neuroglial cells,"actin, beta",Mus musculus
+ARF5,Protein,ExoCarta,Mov neuroglial cells,ADP-ribosylation factor 5,Mus musculus
+VIM,Protein,ExoCarta,Mov neuroglial cells,vimentin,Mus musculus
+AHCY,Protein,ExoCarta,Mov neuroglial cells,S-adenosylhomocysteine hydrolase,Mus musculus
+SERPINE1,Protein,ExoCarta,Mov neuroglial cells,"serine (or cysteine) peptidase inhibitor, clade E, member 1",Mus musculus
+RPS3,Protein,ExoCarta,Mov neuroglial cells,ribosomal protein S3,Mus musculus
+ANXA5,Protein,ExoCarta,Mov neuroglial cells,annexin A5,Mus musculus
+FDPS,Protein,ExoCarta,Mov neuroglial cells,farnesyl diphosphate synthetase,Mus musculus
+ACTG1,Protein,ExoCarta,Mov neuroglial cells,"actin, gamma, cytoplasmic 1",Mus musculus
+ANXA6,Protein,ExoCarta,Mov neuroglial cells,annexin A6,Mus musculus
+CDC42,Protein,ExoCarta,Mov neuroglial cells,cell division cycle 42,Mus musculus
+GNAS,Protein,ExoCarta,Mov neuroglial cells,"GNAS (guanine nucleotide binding protein, alpha stimulating) complex locus",Mus musculus
+RAB5C,Protein,ExoCarta,Mov neuroglial cells,"RAB5C, member RAS oncogene family",Mus musculus
+RALA,Protein,ExoCarta,Mov neuroglial cells,v-ral simian leukemia viral oncogene homolog A (ras related),Mus musculus
+TUBA1B,Protein,ExoCarta,Mov neuroglial cells,"tubulin, alpha 1B",Mus musculus
+GM5138,Protein,ExoCarta,Mov neuroglial cells,predicted gene 5138,Mus musculus
+PGK1,Protein,ExoCarta,Mov neuroglial cells,phosphoglycerate kinase 1,Mus musculus
+HBB-Y,Protein,ExoCarta,Mov neuroglial cells,"hemoglobin Y, beta-like embryonic chain",Mus musculus
+YWHAE,Protein,ExoCarta,Mov neuroglial cells,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide",Mus musculus
+PSMA2,Protein,ExoCarta,Mov neuroglial cells,"proteasome (prosome, macropain) subunit, alpha type 2",Mus musculus
+MSN,Protein,ExoCarta,Mov neuroglial cells,moesin,Mus musculus
+SLC3A2,Protein,ExoCarta,Mov neuroglial cells,"solute carrier family 3 (activators of dibasic and neutral amino acid transport), member 2",Mus musculus
+HIST1H4A,Protein,ExoCarta,Mov neuroglial cells,"histone cluster 1, H4a",Mus musculus
+RHOB,Protein,ExoCarta,Mov neuroglial cells,"ras homolog gene family, member B",Mus musculus
+TUBB5,Protein,ExoCarta,Mov neuroglial cells,"tubulin, beta 5 class I",Mus musculus
+TNC,Protein,ExoCarta,Mov neuroglial cells,tenascin C,Mus musculus
+GNA13,Protein,ExoCarta,Mov neuroglial cells,"guanine nucleotide binding protein, alpha 13",Mus musculus
+ARF6,Protein,ExoCarta,Mov neuroglial cells,ADP-ribosylation factor 6,Mus musculus
+EDIL3,Protein,ExoCarta,Mov neuroglial cells,EGF-like repeats and discoidin I-like domains 3,Mus musculus
+RAB10,Protein,ExoCarta,Mov neuroglial cells,"RAB10, member RAS oncogene family",Mus musculus
+ITGAV,Protein,ExoCarta,Mov neuroglial cells,integrin alpha V,Mus musculus
+GM9392,Protein,ExoCarta,Mov neuroglial cells,predicted pseudogene 9392,Mus musculus
+ANXA1,Protein,ExoCarta,Mov neuroglial cells,annexin A1,Mus musculus
+LAMP2,Protein,ExoCarta,Mov neuroglial cells,lysosomal-associated membrane protein 2,Mus musculus
+HTRA1,Protein,ExoCarta,Mov neuroglial cells,HtrA serine peptidase 1,Mus musculus
+ANXA3,Protein,ExoCarta,Mov neuroglial cells,annexin A3,Mus musculus
+ITGB1,Protein,ExoCarta,Mov neuroglial cells,integrin beta 1 (fibronectin receptor beta),Mus musculus
+ANXA4,Protein,ExoCarta,Mov neuroglial cells,annexin A4,Mus musculus
+AKR1A1,Protein,ExoCarta,Mov neuroglial cells,"aldo-keto reductase family 1, member A1 (aldehyde reductase)",Mus musculus
+POSTN,Protein,ExoCarta,Mov neuroglial cells,"periostin, osteoblast specific factor",Mus musculus
+LDHA,Protein,ExoCarta,Mov neuroglial cells,lactate dehydrogenase A,Mus musculus
+GAPDH,Protein,ExoCarta,Mov neuroglial cells,glyceraldehyde-3-phosphate dehydrogenase,Mus musculus
+ANXA11,Protein,ExoCarta,Mov neuroglial cells,annexin A11,Mus musculus
+PPIC,Protein,ExoCarta,Mov neuroglial cells,peptidylprolyl isomerase C,Mus musculus
+PRNP,Protein,ExoCarta,Mov neuroglial cells,prion protein,Mus musculus
+EEF1A1,Protein,ExoCarta,Mov neuroglial cells,eukaryotic translation elongation factor 1 alpha 1,Mus musculus
+ITGA7,Protein,ExoCarta,Mov neuroglial cells,integrin alpha 7,Mus musculus
+PZP,Protein,ExoCarta,Mov neuroglial cells,pregnancy zone protein,Mus musculus
+RRAS,Protein,ExoCarta,Mov neuroglial cells,"Harvey rat sarcoma oncogene, subgroup R",Mus musculus
+TPI1,Protein,ExoCarta,Mov neuroglial cells,triosephosphate isomerase 1,Mus musculus
+MFGE8,Protein,ExoCarta,Mov neuroglial cells,milk fat globule-EGF factor 8 protein,Mus musculus
+ACTG2,Protein,ExoCarta,Mov neuroglial cells,"actin, gamma 2, smooth muscle, enteric",Mus musculus
+PPIA,Protein,ExoCarta,Mov neuroglial cells,peptidylprolyl isomerase A,Mus musculus
+CFL1,Protein,ExoCarta,Mov neuroglial cells,"cofilin 1, non-muscle",Mus musculus
+FLOT1,Protein,ExoCarta,Mov neuroglial cells,flotillin 1,Mus musculus
+YWHAZ,Protein,ExoCarta,Mov neuroglial cells,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide",Mus musculus
+HIST1H2AK,Protein,ExoCarta,Mov neuroglial cells,"histone cluster 1, H2ak",Mus musculus
+RAP2B,Protein,ExoCarta,Mov neuroglial cells,"RAP2B, member of RAS oncogene family",Mus musculus
+RAB11B,Protein,ExoCarta,Mov neuroglial cells,"RAB11B, member RAS oncogene family",Mus musculus
+YWHAG,Protein,ExoCarta,Mov neuroglial cells,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, gamma polypeptide",Mus musculus
+RAB1,Protein,ExoCarta,Mov neuroglial cells,"RAB1, member RAS oncogene family",Mus musculus
+SERPINF1,Protein,ExoCarta,Mov neuroglial cells,"serine (or cysteine) peptidase inhibitor, clade F, member 1",Mus musculus
+ALB,Protein,ExoCarta,Mov neuroglial cells,albumin,Mus musculus
+GDI2,Protein,ExoCarta,Mov neuroglial cells,guanosine diphosphate (GDP) dissociation inhibitor 2,Mus musculus
+ANXA2,Protein,ExoCarta,Mov neuroglial cells,annexin A2,Mus musculus
+ARPC3,Protein,ExoCarta,Mov neuroglial cells,"actin related protein 2/3 complex, subunit 3",Mus musculus
+GNAQ,Protein,ExoCarta,Mov neuroglial cells,"guanine nucleotide binding protein, alpha q polypeptide",Mus musculus
+CLIC1,Protein,ExoCarta,Mov neuroglial cells,chloride intracellular channel 1,Mus musculus
+RAB7,Protein,ExoCarta,Mov neuroglial cells,"RAB7, member RAS oncogene family",Mus musculus
+PEBP1,Protein,ExoCarta,Mov neuroglial cells,phosphatidylethanolamine binding protein 1,Mus musculus
+GM20899,Protein,ExoCarta,Neural stem cells,"predicted gene, 20899",Mus musculus
+LGALS1,Protein,ExoCarta,Neural stem cells,"lectin, galactose binding, soluble 1",Mus musculus
+HIST1H4F,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H4f",Mus musculus
+NOMO1,Protein,ExoCarta,Neural stem cells,nodal modulator 1,Mus musculus
+HIST1H2AG,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H2ag",Mus musculus
+B2M,Protein,ExoCarta,Neural stem cells,beta-2 microglobulin,Mus musculus
+CD63,Protein,ExoCarta,Neural stem cells,CD63 antigen,Mus musculus
+HIST1H4B,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H4b",Mus musculus
+HIST1H4J,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H4j",Mus musculus
+PSMA5,Protein,ExoCarta,Neural stem cells,"proteasome (prosome, macropain) subunit, alpha type 5",Mus musculus
+SSR4,Protein,ExoCarta,Neural stem cells,"signal sequence receptor, delta",Mus musculus
+DHCR24,Protein,ExoCarta,Neural stem cells,24-dehydrocholesterol reductase,Mus musculus
+YBX1,Protein,ExoCarta,Neural stem cells,Y box protein 1,Mus musculus
+BTBD17,Protein,ExoCarta,Neural stem cells,BTB (POZ) domain containing 17,Mus musculus
+TSG101,Protein,ExoCarta,Neural stem cells,tumor susceptibility gene 101,Mus musculus
+LONP1,Protein,ExoCarta,Neural stem cells,"lon peptidase 1, mitochondrial",Mus musculus
+CD9,Protein,ExoCarta,Neural stem cells,CD9 antigen,Mus musculus
+LOC102643269,Protein,ExoCarta,Neural stem cells,rRNA 2'-O-methyltransferase fibrillarin,Mus musculus
+HIST2H4,Protein,ExoCarta,Neural stem cells,"histone cluster 2, H4",Mus musculus
+H2AFZ,Protein,ExoCarta,Neural stem cells,"H2A histone family, member Z",Mus musculus
+PSMB6,Protein,ExoCarta,Neural stem cells,"proteasome (prosome, macropain) subunit, beta type 6",Mus musculus
+HIST1H2AD,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H2ad",Mus musculus
+GLCE,Protein,ExoCarta,Neural stem cells,glucuronyl C5-epimerase,Mus musculus
+ENO1,Protein,ExoCarta,Neural stem cells,"enolase 1, alpha non-neuron",Mus musculus
+PNPLA8,Protein,ExoCarta,Neural stem cells,patatin-like phospholipase domain containing 8,Mus musculus
+MRPS33,Protein,ExoCarta,Neural stem cells,mitochondrial ribosomal protein S33,Mus musculus
+PSMA3,Protein,ExoCarta,Neural stem cells,"proteasome (prosome, macropain) subunit, alpha type 3",Mus musculus
+NSDHL,Protein,ExoCarta,Neural stem cells,NAD(P) dependent steroid dehydrogenase-like,Mus musculus
+ACADM,Protein,ExoCarta,Neural stem cells,"acyl-Coenzyme A dehydrogenase, medium chain",Mus musculus
+SQLE,Protein,ExoCarta,Neural stem cells,squalene epoxidase,Mus musculus
+ARXES2,Protein,ExoCarta,Neural stem cells,adipocyte-related X-chromosome expressed sequence 2,Mus musculus
+EDEM3,Protein,ExoCarta,Neural stem cells,"ER degradation enhancer, mannosidase alpha-like 3",Mus musculus
+ETFB,Protein,ExoCarta,Neural stem cells,"electron transferring flavoprotein, beta polypeptide",Mus musculus
+HIST1H2AN,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H2an",Mus musculus
+TMEM126A,Protein,ExoCarta,Neural stem cells,transmembrane protein 126A,Mus musculus
+ENO1B,Protein,ExoCarta,Neural stem cells,"enolase 1B, retrotransposed",Mus musculus
+HIST1H2AI,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H2ai",Mus musculus
+RPLP0,Protein,ExoCarta,Neural stem cells,"ribosomal protein, large, P0",Mus musculus
+DYNLRB1,Protein,ExoCarta,Neural stem cells,dynein light chain roadblock-type 1,Mus musculus
+HSP90AA1,Protein,ExoCarta,Neural stem cells,"heat shock protein 90, alpha (cytosolic), class A member 1",Mus musculus
+EMC7,Protein,ExoCarta,Neural stem cells,ER membrane protein complex subunit 7,Mus musculus
+ACTB,Protein,ExoCarta,Neural stem cells,"actin, beta",Mus musculus
+PSMD2,Protein,ExoCarta,Neural stem cells,"proteasome (prosome, macropain) 26S subunit, non-ATPase, 2",Mus musculus
+AGO1,Protein,ExoCarta,Neural stem cells,argonaute RISC catalytic subunit 1,Mus musculus
+HNRNPU,Protein,ExoCarta,Neural stem cells,heterogeneous nuclear ribonucleoprotein U,Mus musculus
+CSNK2A1,Protein,ExoCarta,Neural stem cells,"casein kinase 2, alpha 1 polypeptide",Mus musculus
+TOP1,Protein,ExoCarta,Neural stem cells,topoisomerase (DNA) I,Mus musculus
+VIM,Protein,ExoCarta,Neural stem cells,vimentin,Mus musculus
+ETFA,Protein,ExoCarta,Neural stem cells,"electron transferring flavoprotein, alpha polypeptide",Mus musculus
+SUB1,Protein,ExoCarta,Neural stem cells,SUB1 homolog (S. cerevisiae),Mus musculus
+AP2S1,Protein,ExoCarta,Neural stem cells,"adaptor-related protein complex 2, sigma 1 subunit",Mus musculus
+PRSS23,Protein,ExoCarta,Neural stem cells,"protease, serine 23",Mus musculus
+HIST1H2AB,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H2ab",Mus musculus
+PA2G4,Protein,ExoCarta,Neural stem cells,proliferation-associated 2G4,Mus musculus
+CSNK2B,Protein,ExoCarta,Neural stem cells,"casein kinase 2, beta polypeptide",Mus musculus
+EIF3M,Protein,ExoCarta,Neural stem cells,"eukaryotic translation initiation factor 3, subunit M",Mus musculus
+SND1,Protein,ExoCarta,Neural stem cells,staphylococcal nuclease and tudor domain containing 1,Mus musculus
+CCT8,Protein,ExoCarta,Neural stem cells,"chaperonin containing Tcp1, subunit 8 (theta)",Mus musculus
+HIST2H2AB,Protein,ExoCarta,Neural stem cells,"histone cluster 2, H2ab",Mus musculus
+RPL18A,Protein,ExoCarta,Neural stem cells,ribosomal protein L18A,Mus musculus
+USP5,Protein,ExoCarta,Neural stem cells,ubiquitin specific peptidase 5 (isopeptidase T),Mus musculus
+PRPF8,Protein,ExoCarta,Neural stem cells,pre-mRNA processing factor 8,Mus musculus
+SNRPD3,Protein,ExoCarta,Neural stem cells,small nuclear ribonucleoprotein D3,Mus musculus
+UGGT1,Protein,ExoCarta,Neural stem cells,UDP-glucose glycoprotein glucosyltransferase 1,Mus musculus
+TMX1,Protein,ExoCarta,Neural stem cells,thioredoxin-related transmembrane protein 1,Mus musculus
+HIST1H2AE,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H2ae",Mus musculus
+EIF3E,Protein,ExoCarta,Neural stem cells,"eukaryotic translation initiation factor 3, subunit E",Mus musculus
+TOMM20,Protein,ExoCarta,Neural stem cells,translocase of outer mitochondrial membrane 20 homolog (yeast),Mus musculus
+HIST1H2AO,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H2ao",Mus musculus
+PGK1,Protein,ExoCarta,Neural stem cells,phosphoglycerate kinase 1,Mus musculus
+ERP44,Protein,ExoCarta,Neural stem cells,endoplasmic reticulum protein 44,Mus musculus
+GARS,Protein,ExoCarta,Neural stem cells,glycyl-tRNA synthetase,Mus musculus
+CCT4,Protein,ExoCarta,Neural stem cells,"chaperonin containing Tcp1, subunit 4 (delta)",Mus musculus
+NUP205,Protein,ExoCarta,Neural stem cells,nucleoporin 205,Mus musculus
+PABPC1,Protein,ExoCarta,Neural stem cells,"poly(A) binding protein, cytoplasmic 1",Mus musculus
+CKB,Protein,ExoCarta,Neural stem cells,"creatine kinase, brain",Mus musculus
+HIST1H4K,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H4k",Mus musculus
+RAB3IP,Protein,ExoCarta,Neural stem cells,RAB3A interacting protein,Mus musculus
+RPL13A,Protein,ExoCarta,Neural stem cells,ribosomal protein L13A,Mus musculus
+IDH2,Protein,ExoCarta,Neural stem cells,"isocitrate dehydrogenase 2 (NADP+), mitochondrial",Mus musculus
+HIST1H4A,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H4a",Mus musculus
+HIST2H2AA1,Protein,ExoCarta,Neural stem cells,"histone cluster 2, H2aa1",Mus musculus
+HIST1H1E,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H1e",Mus musculus
+HIST1H2AP,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H2ap",Mus musculus
+HIST1H3I,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H3i",Mus musculus
+LOC102641229,Protein,ExoCarta,Neural stem cells,histone H4,Mus musculus
+HIST1H3G,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H3g",Mus musculus
+BANF1,Protein,ExoCarta,Neural stem cells,barrier to autointegration factor 1,Mus musculus
+HIST2H2AA2,Protein,ExoCarta,Neural stem cells,"histone cluster 2, H2aa2",Mus musculus
+FABP5,Protein,ExoCarta,Neural stem cells,"fatty acid binding protein 5, epidermal",Mus musculus
+NARS,Protein,ExoCarta,Neural stem cells,asparaginyl-tRNA synthetase,Mus musculus
+HIST1H4N,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H4n",Mus musculus
+HIST1H2AC,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H2ac",Mus musculus
+PHGDH,Protein,ExoCarta,Neural stem cells,3-phosphoglycerate dehydrogenase,Mus musculus
+PSMA4,Protein,ExoCarta,Neural stem cells,"proteasome (prosome, macropain) subunit, alpha type 4",Mus musculus
+HIST1H4M,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H4m",Mus musculus
+HSP90AB1,Protein,ExoCarta,Neural stem cells,"heat shock protein 90 alpha (cytosolic), class B member 1",Mus musculus
+NCLN,Protein,ExoCarta,Neural stem cells,nicalin homolog (zebrafish),Mus musculus
+HIST1H4D,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H4d",Mus musculus
+ALDOC,Protein,ExoCarta,Neural stem cells,"aldolase C, fructose-bisphosphate",Mus musculus
+SPCS2,Protein,ExoCarta,Neural stem cells,signal peptidase complex subunit 2 homolog (S. cerevisiae),Mus musculus
+EIF2S1,Protein,ExoCarta,Neural stem cells,"eukaryotic translation initiation factor 2, subunit 1 alpha",Mus musculus
+B3GNT6,Protein,ExoCarta,Neural stem cells,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 6 (core 3 synthase)",Mus musculus
+ARXES1,Protein,ExoCarta,Neural stem cells,adipocyte-related X-chromosome expressed sequence 1,Mus musculus
+GAPDH,Protein,ExoCarta,Neural stem cells,glyceraldehyde-3-phosphate dehydrogenase,Mus musculus
+PSMB4,Protein,ExoCarta,Neural stem cells,"proteasome (prosome, macropain) subunit, beta type 4",Mus musculus
+PSMA7,Protein,ExoCarta,Neural stem cells,"proteasome (prosome, macropain) subunit, alpha type 7",Mus musculus
+RPL7L1,Protein,ExoCarta,Neural stem cells,ribosomal protein L7-like 1,Mus musculus
+JAK2,Protein,ExoCarta,Neural stem cells,Janus kinase 2,Mus musculus
+STAT1,Protein,ExoCarta,Neural stem cells,signal transducer and activator of transcription 1,Mus musculus
+TNFRSF1A,Protein,ExoCarta,Neural stem cells,"tumor necrosis factor receptor superfamily, member 1a",Mus musculus
+AGO2,Protein,ExoCarta,Neural stem cells,argonaute RISC catalytic subunit 2,Mus musculus
+MTHFD1L,Protein,ExoCarta,Neural stem cells,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1-like,Mus musculus
+SMC3,Protein,ExoCarta,Neural stem cells,structural maintenance of chromosomes 3,Mus musculus
+TPI1,Protein,ExoCarta,Neural stem cells,triosephosphate isomerase 1,Mus musculus
+CSNK2A2,Protein,ExoCarta,Neural stem cells,"casein kinase 2, alpha prime polypeptide",Mus musculus
+MRPS6,Protein,ExoCarta,Neural stem cells,mitochondrial ribosomal protein S6,Mus musculus
+NME1,Protein,ExoCarta,Neural stem cells,NME/NM23 nucleoside diphosphate kinase 1,Mus musculus
+FBL,Protein,ExoCarta,Neural stem cells,fibrillarin,Mus musculus
+PSMA6,Protein,ExoCarta,Neural stem cells,"proteasome (prosome, macropain) subunit, alpha type 6",Mus musculus
+WDR36,Protein,ExoCarta,Neural stem cells,WD repeat domain 36,Mus musculus
+HIST1H4I,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H4i",Mus musculus
+HIST1H1D,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H1d",Mus musculus
+HIST1H3A,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H3a",Mus musculus
+MTDH,Protein,ExoCarta,Neural stem cells,metadherin,Mus musculus
+PDCD6IP,Protein,ExoCarta,Neural stem cells,programmed cell death 6 interacting protein,Mus musculus
+HIST4H4,Protein,ExoCarta,Neural stem cells,"histone cluster 4, H4",Mus musculus
+ACAA1A,Protein,ExoCarta,Neural stem cells,acetyl-Coenzyme A acyltransferase 1A,Mus musculus
+HIST1H4C,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H4c",Mus musculus
+PYCR1,Protein,ExoCarta,Neural stem cells,pyrroline-5-carboxylate reductase 1,Mus musculus
+HSPA9,Protein,ExoCarta,Neural stem cells,heat shock protein 9,Mus musculus
+HSPA1B,Protein,ExoCarta,Neural stem cells,heat shock protein 1B,Mus musculus
+ALDOA,Protein,ExoCarta,Neural stem cells,"aldolase A, fructose-bisphosphate",Mus musculus
+DHCR7,Protein,ExoCarta,Neural stem cells,7-dehydrocholesterol reductase,Mus musculus
+HIST1H3H,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H3h",Mus musculus
+CROT,Protein,ExoCarta,Neural stem cells,carnitine O-octanoyltransferase,Mus musculus
+MIF,Protein,ExoCarta,Neural stem cells,macrophage migration inhibitory factor,Mus musculus
+JAK1,Protein,ExoCarta,Neural stem cells,Janus kinase 1,Mus musculus
+HIST1H4H,Protein,ExoCarta,Neural stem cells,"histone cluster 1, H4h",Mus musculus
+MSN,Protein,ExoCarta,Neural stem cells,moesin,Mus musculus
+NOP56,Protein,ExoCarta,Neural stem cells,NOP56 ribonucleoprotein,Mus musculus
+GM20899,Protein,ExoCarta,Oligodendrocytes,"predicted gene, 20899",Mus musculus
+HIST1H4F,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H4f",Mus musculus
+GPD1,Protein,ExoCarta,Oligodendrocytes,glycerol-3-phosphate dehydrogenase 1 (soluble),Mus musculus
+KRT14,Protein,ExoCarta,Oligodendrocytes,keratin 14,Mus musculus
+HIST1H2AG,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H2ag",Mus musculus
+HIST1H4B,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H4b",Mus musculus
+PGK2,Protein,ExoCarta,Oligodendrocytes,phosphoglycerate kinase 2,Mus musculus
+VCP,Protein,ExoCarta,Oligodendrocytes,valosin containing protein,Mus musculus
+HIST1H4J,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H4j",Mus musculus
+ENO1,Protein,ExoCarta,Oligodendrocytes,"enolase 1, alpha non-neuron",Mus musculus
+TUBA1A,Protein,ExoCarta,Oligodendrocytes,"tubulin, alpha 1A",Mus musculus
+YWHAH,Protein,ExoCarta,Oligodendrocytes,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide",Mus musculus
+KRT19,Protein,ExoCarta,Oligodendrocytes,keratin 19,Mus musculus
+RAB1B,Protein,ExoCarta,Oligodendrocytes,"RAB1B, member RAS oncogene family",Mus musculus
+KRT71,Protein,ExoCarta,Oligodendrocytes,keratin 71,Mus musculus
+HIST1H3D,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H3d",Mus musculus
+TKT,Protein,ExoCarta,Oligodendrocytes,transketolase,Mus musculus
+KRT5,Protein,ExoCarta,Oligodendrocytes,keratin 5,Mus musculus
+HIST2H4,Protein,ExoCarta,Oligodendrocytes,"histone cluster 2, H4",Mus musculus
+SIRT2,Protein,ExoCarta,Oligodendrocytes,sirtuin 2,Mus musculus
+HIST1H4I,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H4i",Mus musculus
+GNG12,Protein,ExoCarta,Oligodendrocytes,"guanine nucleotide binding protein (G protein), gamma 12",Mus musculus
+GM2574,Protein,ExoCarta,Oligodendrocytes,predicted pseudogene 2574,Mus musculus
+HIST1H2AP,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H2ap",Mus musculus
+NME2,Protein,ExoCarta,Oligodendrocytes,NME/NM23 nucleoside diphosphate kinase 2,Mus musculus
+PRDX2,Protein,ExoCarta,Oligodendrocytes,peroxiredoxin 2,Mus musculus
+HSPA8,Protein,ExoCarta,Oligodendrocytes,heat shock protein 8,Mus musculus
+H2AFZ,Protein,ExoCarta,Oligodendrocytes,"H2A histone family, member Z",Mus musculus
+GM10359,Protein,ExoCarta,Oligodendrocytes,predicted gene 10359,Mus musculus
+KRT2,Protein,ExoCarta,Oligodendrocytes,keratin 2,Mus musculus
+ACTG1,Protein,ExoCarta,Oligodendrocytes,"actin, gamma, cytoplasmic 1",Mus musculus
+DPYSL2,Protein,ExoCarta,Oligodendrocytes,dihydropyrimidinase-like 2,Mus musculus
+ACTA2,Protein,ExoCarta,Oligodendrocytes,"actin, alpha 2, smooth muscle, aorta",Mus musculus
+KRT18,Protein,ExoCarta,Oligodendrocytes,keratin 18,Mus musculus
+HIST1H2AN,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H2an",Mus musculus
+ENO1B,Protein,ExoCarta,Oligodendrocytes,"enolase 1B, retrotransposed",Mus musculus
+HIST1H2AI,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H2ai",Mus musculus
+HSP90AA1,Protein,ExoCarta,Oligodendrocytes,"heat shock protein 90, alpha (cytosolic), class A member 1",Mus musculus
+GSN,Protein,ExoCarta,Oligodendrocytes,gelsolin,Mus musculus
+ACTB,Protein,ExoCarta,Oligodendrocytes,"actin, beta",Mus musculus
+HSPA1L,Protein,ExoCarta,Oligodendrocytes,heat shock protein 1-like,Mus musculus
+GM3272,Protein,ExoCarta,Oligodendrocytes,predicted pseudogene 3272,Mus musculus
+TUBA3A,Protein,ExoCarta,Oligodendrocytes,"tubulin, alpha 3A",Mus musculus
+PRDX1,Protein,ExoCarta,Oligodendrocytes,peroxiredoxin 1,Mus musculus
+ARF2,Protein,ExoCarta,Oligodendrocytes,ADP-ribosylation factor 2,Mus musculus
+KRT10,Protein,ExoCarta,Oligodendrocytes,keratin 10,Mus musculus
+HIST1H2AB,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H2ab",Mus musculus
+KRT4,Protein,ExoCarta,Oligodendrocytes,keratin 4,Mus musculus
+ATP1A3,Protein,ExoCarta,Oligodendrocytes,"ATPase, Na+/K+ transporting, alpha 3 polypeptide",Mus musculus
+RAP1A,Protein,ExoCarta,Oligodendrocytes,RAS-related protein-1a,Mus musculus
+PKM,Protein,ExoCarta,Oligodendrocytes,"pyruvate kinase, muscle",Mus musculus
+HIST2H3C2,Protein,ExoCarta,Oligodendrocytes,"histone cluster 2, H3c2",Mus musculus
+HIST1H3F,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H3f",Mus musculus
+YWHAQ,Protein,ExoCarta,Oligodendrocytes,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, theta polypeptide",Mus musculus
+QDPR,Protein,ExoCarta,Oligodendrocytes,quinoid dihydropteridine reductase,Mus musculus
+HIST1H2AE,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H2ae",Mus musculus
+TUBA8,Protein,ExoCarta,Oligodendrocytes,"tubulin, alpha 8",Mus musculus
+KRT77,Protein,ExoCarta,Oligodendrocytes,keratin 77,Mus musculus
+HIST1H2AO,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H2ao",Mus musculus
+PGK1,Protein,ExoCarta,Oligodendrocytes,phosphoglycerate kinase 1,Mus musculus
+IGSF8,Protein,ExoCarta,Oligodendrocytes,"immunoglobulin superfamily, member 8",Mus musculus
+HIST1H2BL,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H2bl",Mus musculus
+EEF1A2,Protein,ExoCarta,Oligodendrocytes,eukaryotic translation elongation factor 1 alpha 2,Mus musculus
+PLP1,Protein,ExoCarta,Oligodendrocytes,proteolipid protein (myelin) 1,Mus musculus
+CKB,Protein,ExoCarta,Oligodendrocytes,"creatine kinase, brain",Mus musculus
+HIST1H4K,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H4k",Mus musculus
+MARCKSL1,Protein,ExoCarta,Oligodendrocytes,MARCKS-like 1,Mus musculus
+HIST1H4A,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H4a",Mus musculus
+HIST1H2AD,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H2ad",Mus musculus
+GSTP1,Protein,ExoCarta,Oligodendrocytes,"glutathione S-transferase, pi 1",Mus musculus
+MOG,Protein,ExoCarta,Oligodendrocytes,myelin oligodendrocyte glycoprotein,Mus musculus
+HIST1H3I,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H3i",Mus musculus
+HIST1H3G,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H3g",Mus musculus
+TUBB5,Protein,ExoCarta,Oligodendrocytes,"tubulin, beta 5 class I",Mus musculus
+KRT16,Protein,ExoCarta,Oligodendrocytes,keratin 16,Mus musculus
+GNA13,Protein,ExoCarta,Oligodendrocytes,"guanine nucleotide binding protein, alpha 13",Mus musculus
+FABP5,Protein,ExoCarta,Oligodendrocytes,"fatty acid binding protein 5, epidermal",Mus musculus
+APOE,Protein,ExoCarta,Oligodendrocytes,apolipoprotein E,Mus musculus
+CNP,Protein,ExoCarta,Oligodendrocytes,"2',3'-cyclic nucleotide 3' phosphodiesterase",Mus musculus
+HIST1H4N,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H4n",Mus musculus
+HIST1H2AC,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H2ac",Mus musculus
+KRT8,Protein,ExoCarta,Oligodendrocytes,keratin 8,Mus musculus
+UBE2N,Protein,ExoCarta,Oligodendrocytes,ubiquitin-conjugating enzyme E2N,Mus musculus
+GM12537,Protein,ExoCarta,Oligodendrocytes,predicted gene 12537,Mus musculus
+HSPA5,Protein,ExoCarta,Oligodendrocytes,heat shock protein 5,Mus musculus
+GM4735,Protein,ExoCarta,Oligodendrocytes,predicted gene 4735,Mus musculus
+ARHGDIA,Protein,ExoCarta,Oligodendrocytes,Rho GDP dissociation inhibitor (GDI) alpha,Mus musculus
+HIST1H3C,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H3c",Mus musculus
+HIST1H4M,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H4m",Mus musculus
+HSP90AB1,Protein,ExoCarta,Oligodendrocytes,"heat shock protein 90 alpha (cytosolic), class B member 1",Mus musculus
+NME1,Protein,ExoCarta,Oligodendrocytes,NME/NM23 nucleoside diphosphate kinase 1,Mus musculus
+HIST1H4D,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H4d",Mus musculus
+CD81,Protein,ExoCarta,Oligodendrocytes,CD81 antigen,Mus musculus
+ATP1A2,Protein,ExoCarta,Oligodendrocytes,"ATPase, Na+/K+ transporting, alpha 2 polypeptide",Mus musculus
+GDI1,Protein,ExoCarta,Oligodendrocytes,guanosine diphosphate (GDP) dissociation inhibitor 1,Mus musculus
+HSPA1A,Protein,ExoCarta,Oligodendrocytes,heat shock protein 1A,Mus musculus
+TALDO1,Protein,ExoCarta,Oligodendrocytes,transaldolase 1,Mus musculus
+GAPDH,Protein,ExoCarta,Oligodendrocytes,glyceraldehyde-3-phosphate dehydrogenase,Mus musculus
+HIST2H3B,Protein,ExoCarta,Oligodendrocytes,"histone cluster 2, H3b",Mus musculus
+TUBB4B,Protein,ExoCarta,Oligodendrocytes,"tubulin, beta 4B class IVB",Mus musculus
+HSPA2,Protein,ExoCarta,Oligodendrocytes,heat shock protein 2,Mus musculus
+HIST1H2BN,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H2bn",Mus musculus
+EEF1A1,Protein,ExoCarta,Oligodendrocytes,eukaryotic translation elongation factor 1 alpha 1,Mus musculus
+TUBB4A,Protein,ExoCarta,Oligodendrocytes,"tubulin, beta 4A class IVA",Mus musculus
+TUBB6,Protein,ExoCarta,Oligodendrocytes,"tubulin, beta 6 class V",Mus musculus
+HIST2H2AC,Protein,ExoCarta,Oligodendrocytes,"histone cluster 2, H2ac",Mus musculus
+MDH1,Protein,ExoCarta,Oligodendrocytes,"malate dehydrogenase 1, NAD (soluble)",Mus musculus
+UBD,Protein,ExoCarta,Oligodendrocytes,ubiquitin D,Mus musculus
+KRT15,Protein,ExoCarta,Oligodendrocytes,keratin 15,Mus musculus
+ATP1A1,Protein,ExoCarta,Oligodendrocytes,"ATPase, Na+/K+ transporting, alpha 1 polypeptide",Mus musculus
+TPI1,Protein,ExoCarta,Oligodendrocytes,triosephosphate isomerase 1,Mus musculus
+KRT84,Protein,ExoCarta,Oligodendrocytes,keratin 84,Mus musculus
+GNB2,Protein,ExoCarta,Oligodendrocytes,"guanine nucleotide binding protein (G protein), beta 2",Mus musculus
+YWHAB,Protein,ExoCarta,Oligodendrocytes,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide",Mus musculus
+HIST1H3E,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H3e",Mus musculus
+HIST1H2BF,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H2bf",Mus musculus
+YWHAE,Protein,ExoCarta,Oligodendrocytes,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide",Mus musculus
+EEF2,Protein,ExoCarta,Oligodendrocytes,eukaryotic translation elongation factor 2,Mus musculus
+GM12033,Protein,ExoCarta,Oligodendrocytes,predicted gene 12033,Mus musculus
+PPIA,Protein,ExoCarta,Oligodendrocytes,peptidylprolyl isomerase A,Mus musculus
+CFL1,Protein,ExoCarta,Oligodendrocytes,"cofilin 1, non-muscle",Mus musculus
+YWHAZ,Protein,ExoCarta,Oligodendrocytes,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide",Mus musculus
+HIST1H3A,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H3a",Mus musculus
+HIST3H2BA,Protein,ExoCarta,Oligodendrocytes,"histone cluster 3, H2ba",Mus musculus
+PDCD6IP,Protein,ExoCarta,Oligodendrocytes,programmed cell death 6 interacting protein,Mus musculus
+CLTC,Protein,ExoCarta,Oligodendrocytes,"clathrin, heavy polypeptide (Hc)",Mus musculus
+YWHAG,Protein,ExoCarta,Oligodendrocytes,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, gamma polypeptide",Mus musculus
+HIST4H4,Protein,ExoCarta,Oligodendrocytes,"histone cluster 4, H4",Mus musculus
+HIST1H4C,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H4c",Mus musculus
+KRT6A,Protein,ExoCarta,Oligodendrocytes,keratin 6A,Mus musculus
+HSPA1B,Protein,ExoCarta,Oligodendrocytes,heat shock protein 1B,Mus musculus
+ALDOA,Protein,ExoCarta,Oligodendrocytes,"aldolase A, fructose-bisphosphate",Mus musculus
+GDI2,Protein,ExoCarta,Oligodendrocytes,guanosine diphosphate (GDP) dissociation inhibitor 2,Mus musculus
+HIST1H2BJ,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H2bj",Mus musculus
+MBP,Protein,ExoCarta,Oligodendrocytes,myelin basic protein,Mus musculus
+KRT17,Protein,ExoCarta,Oligodendrocytes,keratin 17,Mus musculus
+CAR2,Protein,ExoCarta,Oligodendrocytes,carbonic anhydrase 2,Mus musculus
+KRT13,Protein,ExoCarta,Oligodendrocytes,keratin 13,Mus musculus
+KRT1,Protein,ExoCarta,Oligodendrocytes,keratin 1,Mus musculus
+HIST1H4H,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H4h",Mus musculus
+DPYSL3,Protein,ExoCarta,Oligodendrocytes,dihydropyrimidinase-like 3,Mus musculus
+HIST1H3H,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H3h",Mus musculus
+TUBA3B,Protein,ExoCarta,Oligodendrocytes,"tubulin, alpha 3B",Mus musculus
+TUBA4A,Protein,ExoCarta,Oligodendrocytes,"tubulin, alpha 4A",Mus musculus
+GLTP,Protein,ExoCarta,Oligodendrocytes,glycolipid transfer protein,Mus musculus
+HIST1H3B,Protein,ExoCarta,Oligodendrocytes,"histone cluster 1, H3b",Mus musculus
+PEBP1,Protein,ExoCarta,Oligodendrocytes,phosphatidylethanolamine binding protein 1,Mus musculus
